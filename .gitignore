@@ -1,4 +1,4 @@
 .idea
 vendor
-/App/Conig/Db.php
+App/Conig/Db.php
 .htaccess
